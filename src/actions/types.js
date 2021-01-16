@@ -1,0 +1,3 @@
+export const FETCH_MOVIES = 'FETCH_MOVIES'
+export const SWITCH_MODE = 'SWITCH_MODE'
+export const FETCH_TRENDING = 'FETCH_TRENDING'
